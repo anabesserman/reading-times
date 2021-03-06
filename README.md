@@ -1,5 +1,5 @@
-# selfpacedreading
-Analyses of reading times 
+# reading-times
+Analyses of reading times
 
 In this project I analyzed reading times from a self-paced reading experiment.
 
